@@ -7,8 +7,8 @@ Hi, I'm Stéphanie. I consider myself as a permanent learner, a smart worker and
 
 😄 Pronouns: She/Her
 
-🔭 I’m currently working on push my skills with Ruby language.
-🌱 I’m currently learning Full-Stack Web Development on App Academy Open.
+-🔭 I’m currently working on push my skills with Ruby language.
+-🌱 I’m currently learning Full-Stack Web Development on App Academy Open.
 
 📫 How to reach me: [GitHub](https://github.com/Pixelus)
 
