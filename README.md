@@ -3,7 +3,7 @@
 <!--
 **Pixelus/Pixelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![](https://github.com/Pixelus/Pixelus/blob/master/waves.png)
+![](https://github.com/Pixelus/Pixelus/blob/master/)
 
 
 Hi, I'm Stéphanie. I consider myself as a permanent learner, a smart worker and computer programming 💻 is one of my biggest hobbies, with designing 🎨, thinking 🤔, reading 📚, cooking 👩‍🍳 and playing 🏸. I am a 🇫🇷 web developer and designer skilled in HTML, CSS and its frameworks, and I'm currently working on the App Academy's Full-Stack Web Development bootcamp with the goal to become a software developer.
