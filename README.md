@@ -30,5 +30,4 @@ I'm an aspiring full-stack web developer, interested in working on backend, and 
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelus)](https://github.com/pixelus/github-readme-stats)
 ![Pixelus's github stats](https://github-readme-stats.vercel.app/api?username=pixelus&theme=dark&show_icons=true)
