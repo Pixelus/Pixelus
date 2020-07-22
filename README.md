@@ -8,7 +8,7 @@
 
 ### Hello world 👋
 
-Hi, I'm Stéphanie. I consider myself as a permanent learner, a smart worker and computer programming 👩‍💻 is one of my biggest hobbies, with designing 🎨 , thinking 🤔 , reading 📚 , cooking 👩‍🍳  , and playing 🏸 . I am a 🇫🇷 web developer and designer skilled in HTML, CSS and its frameworks, and I'm currently working on the App Academy's Full-Stack Web Development bootcamp with the goal to become a software developer.
+Hi, I'm Stéphanie. I consider myself as a permanent learner, a smart worker and computer programming 👩‍💻 is one of my biggest hobbies, with designing 🎨, thinking 🤔, reading 📚, cooking 👩‍🍳, and playing 🏸 . I am a 🇫🇷 web developer and designer skilled in HTML, CSS and its frameworks, and I'm currently working on the App Academy's Full-Stack Web Development bootcamp with the goal to become a software developer.
 I'm an aspiring full-stack web developer, interested in working on backend, and I have a love/hate relationship with programming frustration.
 
 💡 What do I do?
