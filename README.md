@@ -30,6 +30,6 @@ I'm an aspiring full-stack web developer, interested in working on backend, and 
 
 ### How to reach me 📫   
 
-[GitHub](https://github.com/Pixelus)
+[](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)[](https://github.com/Pixelus)
 
 
