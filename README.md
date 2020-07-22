@@ -29,7 +29,7 @@ I'm an aspiring full-stack web developer, interested in working on backend, and 
 * **Openness**: I believe in the value of being open and sharing my learnings, mistakes, work, and experiences with others. It allows me to grow and meet great people who help me turn problems into solutions.
 
 
-<p align="right">
+<p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=pixelus&theme=dark&show_icons=true">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelus&hide_langs_below=1">
 </p>
