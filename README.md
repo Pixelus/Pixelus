@@ -28,8 +28,7 @@ I'm an aspiring full-stack web developer, interested in working on backend, and 
 * **Beginner's mindset and curiosity**: I love discover new things in the world and I interest me to a big amount of subjects (sciences, art, design, sport, cinema, literature and others). This mindset allows me to dream, thinking, developing new ideas and it inspires wonderful interactions between people when discussion is started.  
 * **Openness**: I believe in the value of being open and sharing my learnings, mistakes, work, and experiences with others. It allows me to grow and meet great people who help me turn problems into solutions.
 
-### How to reach me 📫   
+### Stats
 
-[](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)[](https://github.com/Pixelus)
-
-
+![Pixelus's github stats](https://github-readme-stats.vercel.app/api?username=pixelus&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelus)](https://github.com/pixelus/github-readme-stats)
